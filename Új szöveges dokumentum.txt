@@ -1,0 +1,80 @@
+1 Mi a számítógépes hálózat?
+A: Kettő vagy több számítógép összekapcsolása  B: Egy számítógép
+C: Sok vezeték összekapcsolása  D: Kettő vagy több hálózat összekapcsolása
+Helyes válasz :  A
+
+2. Mi a LAN?
+A: Local Area Network	B: Wide Area Network
+C: Személyi hálózat		D: Helyi hálózat
+Helyes válasz:  A és D
+
+3. Kik használnak ma dedikált hálózatot?
+A: Senki sem használ dedikált hálózatot.
+B: Mindenki dedikált hálózatot használ.
+C: Ma nagyvállalatok használnak dedikált vonalat
+D: Ma csak otthonra használunk dedikált hálózatot
+Helyes válasz: C
+
+4. Mi jellemző a kis méretű hálózatokra?
+A: Semmi.		B: Legfeljebb 50 számítógép
+C: Legfeljebb 100 számítógép	D: Legfeljebb 1000 számítógép
+Helyes válasz: B
+
+5.Hol használunk kis méretű hálózatot?
+A: Üzleti életben		B: Kis irodai hálózatoknál
+C: Otthoni hálózatoknál	D: Nagyvállalatoknál
+Helyes válasz: B és C
+
+
+6.Mire NEM használjuk a nagyobb méretű hálózatokat?
+A: Hirdetési célokra	B: Zene megosztásra
+C: termékek eladására	D: információ tárolására
+Helyes válasz: B
+
+7. Mi a WAN?
+A: Wide Area Network	B: Personal Area Network
+C: Local Area Netvork	D: Metropolitan Area Network
+Helyes válasz:  A
+
+8. Mi igaz a PAN-ra?
+A: Vállalatok irodái egy városon belül		B: Személyihálózat
+C: Nagy kiterjedésű hálózat			D: Családi ház belső hálózata
+Helyes válasz: B és D
+
+9.Mi az az internet?
+A: Egy adott cég belső számítógépes hálózata		
+B: Az egész világot körülölelő számítógépes hálózat
+C: Egy olyan számítógépes hálózat amely csak Magyarországon érhető el
+D: Az egész világot körülölelő Telefonos hálózat  elnevezése
+Helyes válasz: B
+
+10.A felsoroltak közül melyik periféria?
+A:Egér		B:Processzor
+C:RAM		C:Videó kártya
+Helyes válasz: A
+
+11. Az alábbiak közül melyik alkalmazást lehet böngészésre használni ?
+A: Google Chrome		B: Microsoft PowerPoint
+C: Mozzila Thunderbird	C: Google Mail (Gmail)
+Helyes válasz: A
+
+
+12.A felsoroltakból melyik adattároló eszköz?
+A: Nyomtató		B:Billenytyűzet
+C: Winchester		C:Monitor
+Helyes válasz: C
+
+13.Hol tárolódnak a BIOS konfigurációs adatok?
+A:RAM		B:gyorsítótárban
+C:merevlemezen	D:CMOS
+Helyes válasz: D
+
+14.Milyen mértékegységet használunk egy áramkörben az ellenállás jellemzésére?
+A: volt		B: watt
+C: ohm		C: amper
+Helyes válasz: C
+
+15.Mi a memória?
+A: Adatbeviteli ezköz	B: Adatátvitelre szolgáló alkatrész
+C: Adattároló		C: Adatmegjelenítő
+Helyes válasz : C
